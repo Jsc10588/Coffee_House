@@ -1,0 +1,6 @@
+C:\Users\jsc10\source\repos\Coffee_House\CoffeeHouseLibrary\bin\Debug\CoffeeHouseLibrary.dll
+C:\Users\jsc10\source\repos\Coffee_House\CoffeeHouseLibrary\bin\Debug\CoffeeHouseLibrary.pdb
+C:\Users\jsc10\source\repos\Coffee_House\CoffeeHouseLibrary\obj\Debug\CoffeeHouseLibrary.csprojAssemblyReference.cache
+C:\Users\jsc10\source\repos\Coffee_House\CoffeeHouseLibrary\obj\Debug\CoffeeHouseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jsc10\source\repos\Coffee_House\CoffeeHouseLibrary\obj\Debug\CoffeeHouseLibrary.dll
+C:\Users\jsc10\source\repos\Coffee_House\CoffeeHouseLibrary\obj\Debug\CoffeeHouseLibrary.pdb

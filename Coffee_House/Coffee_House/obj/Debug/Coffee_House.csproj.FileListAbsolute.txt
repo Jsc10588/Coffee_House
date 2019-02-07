@@ -1,0 +1,10 @@
+C:\Users\jsc10\source\repos\Coffee_House\Coffee_House\bin\Debug\Coffee_House.exe.config
+C:\Users\jsc10\source\repos\Coffee_House\Coffee_House\bin\Debug\Coffee_House.exe
+C:\Users\jsc10\source\repos\Coffee_House\Coffee_House\bin\Debug\Coffee_House.pdb
+C:\Users\jsc10\source\repos\Coffee_House\Coffee_House\bin\Debug\CoffeeHouseLibrary.dll
+C:\Users\jsc10\source\repos\Coffee_House\Coffee_House\bin\Debug\CoffeeHouseLibrary.pdb
+C:\Users\jsc10\source\repos\Coffee_House\Coffee_House\obj\Debug\Coffee_House.csprojAssemblyReference.cache
+C:\Users\jsc10\source\repos\Coffee_House\Coffee_House\obj\Debug\Coffee_House.csproj.CoreCompileInputs.cache
+C:\Users\jsc10\source\repos\Coffee_House\Coffee_House\obj\Debug\Coffee_House.csproj.CopyComplete
+C:\Users\jsc10\source\repos\Coffee_House\Coffee_House\obj\Debug\Coffee_House.exe
+C:\Users\jsc10\source\repos\Coffee_House\Coffee_House\obj\Debug\Coffee_House.pdb
